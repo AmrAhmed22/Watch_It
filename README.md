@@ -1,8 +1,17 @@
-# Movie Streaming Platform
+# Movie Browsing Platform
 
 ## Project Highlights
 
 This project is a comprehensive movie streaming platform with features designed for both users and administrators. It provides an engaging and personalized experience for users while offering robust management tools for admins.
+
+---
+
+## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/97da766a-e87a-499c-b187-4ccfc8739d31
+
+
+*Video demonstrates the main features including user authentication, dashboard navigation, data visualization, and core functionality.*
 
 ---
 
